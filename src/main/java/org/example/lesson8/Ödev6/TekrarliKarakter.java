@@ -1,4 +1,4 @@
-package org.example.lesson8.Ödev8;
+package org.example.lesson8.Ödev6;
 
 import java.util.*;
 
